@@ -1,0 +1,18 @@
+[submodule "ckan"]
+	path = ckan
+	url = ./ckan
+[submodule "ckanext-canada"]
+	path = ckanext-canada
+	url = https://github.com/open-data/ckanext-canada.git
+[submodule "ckanext-wet-boew"]
+	path = ckanext-wet-boew
+	url = https://github.com/open-data/ckanext-wet-boew.git
+[submodule "wet-boew"]
+	path = wet-boew
+	url = https://github.com/open-data/wet-boew.git
+[submodule "ckanapi"]
+	path = ckanapi
+	url = https://github.com/ckan/ckanapi.git
+[submodule "ckanext-recombinant"]
+	path = ckanext-recombinant
+	url = https://github.com/open-data/ckanext-recombinant.git
