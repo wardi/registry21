@@ -1,6 +1,6 @@
 [submodule "ckan"]
 	path = ckan
-	url = ./ckan
+	url = https://github.com/open-data/ckan.git
 [submodule "ckanext-canada"]
 	path = ckanext-canada
 	url = https://github.com/open-data/ckanext-canada.git
