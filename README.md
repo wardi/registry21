@@ -24,9 +24,6 @@
 3. Install with [datacats](https://github.com/boxkite/datacats)
    and `datacats init`
 
-   Use the latest master release from github instead of the one on pypi
-   if you need HTTP proxy support
-
    **or**
    
    Install each python package and its dependencies into your python virtualenv
