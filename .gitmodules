@@ -10,9 +10,6 @@
 [submodule "wet-boew"]
 	path = wet-boew
 	url = https://github.com/open-data/wet-boew.git
-[submodule "ckanapi"]
-	path = ckanapi
-	url = https://github.com/ckan/ckanapi.git
 [submodule "ckanext-recombinant"]
 	path = ckanext-recombinant
 	url = https://github.com/open-data/ckanext-recombinant.git
