@@ -3,7 +3,7 @@
 1. Clone this repository and submodules
 
    ```bash
-   git clone --recursive https://github.com/open-data/registry23.git
+   git clone --recursive https://github.com/open-data/registry21.git
    ```
 
 2. Download the wet-boew intranet theme, and extract into `public/static/gcweb`
